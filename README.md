@@ -1,6 +1,5 @@
 # Sorting-System-backtracking
 This is the first project I developed using Python.
-Hey Guys ! The files i uploaded is py file and another one is a full word file .
-If you want to run the py file program :
-You should have a database in mysql and a table with students . 
-FOR ALL THE INFO CHECK THE WORD FILE . (proj doc file)
+This program sorts the students in a exam hall given in matrix format according to the subjects given by the user . 
+This sorting is done as to minimise the cheating and malpractice done in exam halls.
+Check out my full word file in docx format.
